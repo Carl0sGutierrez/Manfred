@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,7 +16,8 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "León"
+        "municipality": "León",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -31,6 +32,12 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/cagv1103/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favorite Electronic music producer is Deadmau5",
+        "fact": "My favorite song by deadmau5 is Strobe "
       }
     ]
   },
