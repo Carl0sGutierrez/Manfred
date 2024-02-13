@@ -8,17 +8,16 @@
     "profile": {
       "name": "Carlos",
       "surnames": "Gutiérrez",
-      "title": "Title",
-      "description": "I'm always investigating and learning about new technologies this is why I decided to dedicate my time to being a frontend developer",
+      "title": "Frontend Developer",
+      "description": "Product-minded front-end developer, dedicated to creating exceptional user interfaces and constantly learning new technologies. My experience in web applications highlights a track record of technical expertise. Emphasizing communication and a positive attitude, I strive for attention to detail and high-quality work, making me a valuable team player.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/9fa424f3-4c61-465a-97d2-1fc0026f5037_1652207823097.jpg",
-        "alt": "1652207823097.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/3a0f72f7-b816-48ac-8919-512a49d36033_linkedin-photo-12399.linkedin-photo-12399",
+        "alt": "24/02/13/3a0f72f7-b816-48ac-8919-512a49d36033_linkedin-photo-12399.linkedin-photo-12399"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ2RteDZqaNw0R8-7x1PqfhH0)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJ95OAA5CaNw0RpVYFgwZ7npY)",
         "country": "España",
-        "region": "Castilla y León",
-        "municipality": "León"
+        "region": "Castilla y León"
       }
     },
     "interestingFacts": [
@@ -30,7 +29,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/cagv1103/"
+        "URL": "https://linkedin.com/in/carlosalbertogutierrezvasquez"
       },
       {
         "type": "github",
@@ -42,84 +41,17 @@
       }
     ]
   },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "CDS, a Hewlett Packard Enterprise Company",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/fa272740-3bf5-4e54-b05b-1b3c12e850e1_1523363046072.jpg",
-            "alt": "1523363046072.jpg"
-          },
-          "URL": "https://www.hpecds.com/es/"
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2020-09-01",
-            "challenges": [
-              {
-                "description": "Developing features for a product that aims to help TELCOS (Telecommunications Companies) to manage thousands of communication services Orders like Mobile, TV, Internet, etc. In Microservices arquitecture. The tech Stack is AngularJS, Karma, Mocha, NodeJS, Grunt and now we are spliting the product into Microfrontends with Angular module federation and webpack. By now most of the time im fixing bugs and mataining the legacy codebase as well as implemeting new requirements with AngularJS and a looooot of testing   "
-              }
-            ],
-            "competences": [
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "Grunt",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Karma",
-                "type": "technology"
-              },
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "chai",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
   "knowledge": {
     "languages": [
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Full professional proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -209,33 +141,13 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Ability to receive feedback",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Emotional intelligence",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/cagv1103/",
+          "URL": "https://linkedin.com/in/carlosalbertogutierrezvasquez",
           "type": "linkedin"
         },
         {
