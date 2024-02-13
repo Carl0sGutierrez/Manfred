@@ -11,8 +11,8 @@
       "title": "Frontend Developer",
       "description": "Product-minded front-end developer, dedicated to creating exceptional user interfaces and constantly learning new technologies. My experience in web applications highlights a track record of technical expertise. Emphasizing communication and a positive attitude, I strive for attention to detail and high-quality work, making me a valuable team player.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/10183d63-1984-40f0-92aa-b847fb226d96_linkedin-photo-12399.linkedin-photo-12399",
-        "alt": "24/02/13/10183d63-1984-40f0-92aa-b847fb226d96_linkedin-photo-12399.linkedin-photo-12399"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/ce4e833f-4f1b-402e-aae5-3f6c2756edda_linkedin-photo-12399.linkedin-photo-12399",
+        "alt": "24/02/13/ce4e833f-4f1b-402e-aae5-3f6c2756edda_linkedin-photo-12399.linkedin-photo-12399"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ95OAA5CaNw0RpVYFgwZ7npY)",
@@ -47,8 +47,8 @@
         "organization": {
           "name": "CDS, a Hewlett Packard Enterprise company",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/c949c7ca-574f-4a5e-b129-d4278d802bfb_linkedin-photo-12399.linkedin-photo-12399",
-            "alt": "24/02/13/c949c7ca-574f-4a5e-b129-d4278d802bfb_linkedin-photo-12399.linkedin-photo-12399"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/593bd8d0-56b7-4687-9db5-d20bad429514_linkedin-photo-12399.linkedin-photo-12399",
+            "alt": "24/02/13/593bd8d0-56b7-4687-9db5-d20bad429514_linkedin-photo-12399.linkedin-photo-12399"
           }
         },
         "roles": [
@@ -148,58 +148,18 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "MongoDB ",
-        "startDate": "2019-10-01",
-        "institution": {
-          "name": "MongoDB University",
-          "description": "The MongoDB Developer path which consist in 6 courses \n\nhttps://university.mongodb.com/course_completion/dc54c2a5-dc08-4fde-96b7-fc67bb1a/printable\n\nhttps://university.mongodb.com/course_completion/ad497fd3-0af9-4f4b-b05a-8c820018d85e/printable\n\nhttps://university.mongodb.com/course_completion/099d5bc4-1f09-482a-a74c-ab53fd46/printable\n\nhttps://university.mongodb.com/course_completion/96019e84-7159-422a-bc49-d17e119345ce/printable\n\nhttps://university.mongodb.com/course_completion/ad497fd3-0af9-4f4b-b05a-8c820018d85e/printable\n\nhttps://university.mongodb.com/course_completion/b554419c-f0d2-4c8b-aff7-f2478de773a4/printable",
-          "URL": "https://university.mongodb.com/?_ga=2.90008603.1262807074.1665785625-1935617318.1665222043",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/1c9a9d03-8e95-409f-85af-79896c3b9dcf_kuyjf3vea2hg34taa-ho.svg",
-            "alt": "kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "System Administration and Software Programing Technician ",
-        "startDate": "2016-01-01",
+        "degreeAchieved": true,
+        "name": "Bachelor of Technology - BTech, Computer Programming",
+        "startDate": "2013-01-01",
         "institution": {
-          "name": "Tep PUCMM ",
-          "description": "This a two years program with a practical aproching where you chose a real world problem and develop Desktop or Web Application to resolve it.",
-          "URL": "https://tep.pucmm.edu.do/ts-desarrollo-apps",
+          "name": "Pontificia Universidad Católica Madre y Maestra",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/6e75bc1c-44e0-434c-b355-baa1531ad38c_logo.png",
-            "alt": "logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/6087fb8c-79fd-4e7e-9ec4-d23f33c331da_linkedin-photo-12399.linkedin-photo-12399",
+            "alt": "24/02/13/6087fb8c-79fd-4e7e-9ec4-d23f33c331da_linkedin-photo-12399.linkedin-photo-12399"
           }
         },
-        "linkedCompetences": [
-          {
-            "name": "ASP.net",
-            "type": "technology"
-          },
-          {
-            "name": "C#",
-            "type": "technology"
-          },
-          {
-            "name": "SQLServer",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2016-01-31"
       }
     ]
   },
