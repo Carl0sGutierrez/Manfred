@@ -2,12 +2,12 @@
 
 # Carlos Gutiérrez's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/f96e5747-ec25-4045-bd77-501e0bb5846c).
 <br/>
 <br/>
 
 <div align='center'>
-  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2024-02-13 19:43 UTC&color=brightgreen&style=for-the-badge'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2024-02-13 19:45 UTC&color=brightgreen&style=for-the-badge'>
   <a href='https://github.com/getmanfred/mac'>
     <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.5&color=brightgreen&style=for-the-badge'>
   </a>
