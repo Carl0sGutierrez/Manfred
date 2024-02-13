@@ -125,25 +125,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AngularJS",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
           "type": "technology"
         }
       },
@@ -156,6 +144,12 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -297,6 +291,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like a job with a startup environment where I can touch different technologies and work with passionate people ",
     "goodPractices": "Document the code and test it "
   }
