@@ -1,43 +1,44 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Carlos",
       "surnames": "Gutiérrez",
+      "title": "Title",
       "description": "I'm always investigating and learning about new technologies this is why I decided to dedicate my time to being a frontend developer",
       "avatar": {
-        "alt": "1652207823097.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/9fa424f3-4c61-465a-97d2-1fc0026f5037_1652207823097.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/9fa424f3-4c61-465a-97d2-1fc0026f5037_1652207823097.jpg",
+        "alt": "1652207823097.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ2RteDZqaNw0R8-7x1PqfhH0)",
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "León",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "León"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "My favorite Electronic music producer is Deadmau5",
+        "fact": "My favorite song by deadmau5 is Strobe "
+      }
+    ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/cagv1103/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/CarlosGutierrez1989"
       },
       {
-        "type": "other",
+        "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/8469373/carlos-gutierrez"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/cagv1103/"
-      }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "My favorite Electronic music producer is Deadmau5",
-        "fact": "My favorite song by deadmau5 is Strobe "
       }
     ]
   },
@@ -47,8 +48,8 @@
         "organization": {
           "name": "CDS, a Hewlett Packard Enterprise Company",
           "image": {
-            "alt": "1523363046072.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/fa272740-3bf5-4e54-b05b-1b3c12e850e1_1523363046072.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/fa272740-3bf5-4e54-b05b-1b3c12e850e1_1523363046072.jpg",
+            "alt": "1523363046072.jpg"
           },
           "URL": "https://www.hpecds.com/es/"
         },
@@ -111,28 +112,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
@@ -153,6 +146,18 @@
           "name": "Github",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -166,8 +171,8 @@
           "description": "The MongoDB Developer path which consist in 6 courses \n\nhttps://university.mongodb.com/course_completion/dc54c2a5-dc08-4fde-96b7-fc67bb1a/printable\n\nhttps://university.mongodb.com/course_completion/ad497fd3-0af9-4f4b-b05a-8c820018d85e/printable\n\nhttps://university.mongodb.com/course_completion/099d5bc4-1f09-482a-a74c-ab53fd46/printable\n\nhttps://university.mongodb.com/course_completion/96019e84-7159-422a-bc49-d17e119345ce/printable\n\nhttps://university.mongodb.com/course_completion/ad497fd3-0af9-4f4b-b05a-8c820018d85e/printable\n\nhttps://university.mongodb.com/course_completion/b554419c-f0d2-4c8b-aff7-f2478de773a4/printable",
           "URL": "https://university.mongodb.com/?_ga=2.90008603.1262807074.1665785625-1935617318.1665222043",
           "image": {
-            "alt": "kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/1c9a9d03-8e95-409f-85af-79896c3b9dcf_kuyjf3vea2hg34taa-ho.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/1c9a9d03-8e95-409f-85af-79896c3b9dcf_kuyjf3vea2hg34taa-ho.svg",
+            "alt": "kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"
           }
         },
         "linkedCompetences": [
@@ -191,8 +196,8 @@
           "description": "This a two years program with a practical aproching where you chose a real world problem and develop Desktop or Web Application to resolve it.",
           "URL": "https://tep.pucmm.edu.do/ts-desarrollo-apps",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/6e75bc1c-44e0-434c-b355-baa1531ad38c_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/14/6e75bc1c-44e0-434c-b355-baa1531ad38c_logo.png",
+            "alt": "logo.png"
           }
         },
         "linkedCompetences": [
@@ -210,19 +215,46 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to receive feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Emotional intelligence",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/cagv1103/"
+          "URL": "https://www.linkedin.com/in/cagv1103/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/8469373/carlos-gutierrez"
+          "URL": "https://stackoverflow.com/users/8469373/carlos-gutierrez",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/CarlosGutierrez1989",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "carlosgutierrez7233@gmail.com"
       ]
     },
     "preferences": {
@@ -261,6 +293,11 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like a job with a startup environment where I can touch different technologies and work with passionate people ",
+    "goodPractices": "Document the code and test it "
   }
 }
