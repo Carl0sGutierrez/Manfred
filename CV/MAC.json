@@ -11,8 +11,8 @@
       "title": "Frontend Developer",
       "description": "Product-minded front-end developer, dedicated to creating exceptional user interfaces and constantly learning new technologies. My experience in web applications highlights a track record of technical expertise. Emphasizing communication and a positive attitude, I strive for attention to detail and high-quality work, making me a valuable team player.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/3a0f72f7-b816-48ac-8919-512a49d36033_linkedin-photo-12399.linkedin-photo-12399",
-        "alt": "24/02/13/3a0f72f7-b816-48ac-8919-512a49d36033_linkedin-photo-12399.linkedin-photo-12399"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/ea055cda-2d08-4430-80c2-4bb763727a9e_linkedin-photo-12399.linkedin-photo-12399",
+        "alt": "24/02/13/ea055cda-2d08-4430-80c2-4bb763727a9e_linkedin-photo-12399.linkedin-photo-12399"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ95OAA5CaNw0RpVYFgwZ7npY)",
@@ -41,12 +41,36 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CDS, a Hewlett Packard Enterprise company",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/25a9cd1f-d0eb-4233-9d09-f11616484797_linkedin-photo-12399.linkedin-photo-12399",
+            "alt": "24/02/13/25a9cd1f-d0eb-4233-9d09-f11616484797_linkedin-photo-12399.linkedin-photo-12399"
+          }
+        },
+        "roles": [
+          {
+            "name": "Business Applications Engineer ll",
+            "startDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "Responsibilities:\n\n👥 Collaborate with cross-functional teams to understand and translate business requirements into the right technical solutions.\n\n🎨 Design and implement new features, functionalities, and layouts.\n\n📜 Write clean, well-documented, and efficient code using HTML, CSS, JavaScript, AngularJS, Angular, and other relevant technologies.\n\n🧪 Conduct thorough unit testing and debugging to ensure high-quality software.\n\n📚 Stay up-to-date with emerging technologies, industry trends, and best practices for front-end\ndevelopment in the context of the product"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Full professional proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "ES",
