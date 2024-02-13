@@ -11,8 +11,8 @@
       "title": "Frontend Developer",
       "description": "Product-minded front-end developer, dedicated to creating exceptional user interfaces and constantly learning new technologies. My experience in web applications highlights a track record of technical expertise. Emphasizing communication and a positive attitude, I strive for attention to detail and high-quality work, making me a valuable team player.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/ea055cda-2d08-4430-80c2-4bb763727a9e_linkedin-photo-12399.linkedin-photo-12399",
-        "alt": "24/02/13/ea055cda-2d08-4430-80c2-4bb763727a9e_linkedin-photo-12399.linkedin-photo-12399"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/10183d63-1984-40f0-92aa-b847fb226d96_linkedin-photo-12399.linkedin-photo-12399",
+        "alt": "24/02/13/10183d63-1984-40f0-92aa-b847fb226d96_linkedin-photo-12399.linkedin-photo-12399"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ95OAA5CaNw0RpVYFgwZ7npY)",
@@ -47,8 +47,8 @@
         "organization": {
           "name": "CDS, a Hewlett Packard Enterprise company",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/25a9cd1f-d0eb-4233-9d09-f11616484797_linkedin-photo-12399.linkedin-photo-12399",
-            "alt": "24/02/13/25a9cd1f-d0eb-4233-9d09-f11616484797_linkedin-photo-12399.linkedin-photo-12399"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/c949c7ca-574f-4a5e-b129-d4278d802bfb_linkedin-photo-12399.linkedin-photo-12399",
+            "alt": "24/02/13/c949c7ca-574f-4a5e-b129-d4278d802bfb_linkedin-photo-12399.linkedin-photo-12399"
           }
         },
         "roles": [
@@ -87,7 +87,25 @@
       },
       {
         "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -100,6 +118,24 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
